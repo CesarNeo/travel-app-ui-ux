@@ -11,7 +11,7 @@ function Guide() {
         </p>
 
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
-          <h2 className="bold-40 lg:bold-64 xl:max-w-[24.375rem]">
+          <h2 className="bold-40 lg:bold-64 capitalize xl:max-w-[24.375rem]">
             Guide you to easy path
           </h2>
           <p className="regular-16 text-gray-30 xl:max-w-[32.5rem]">
